@@ -10,6 +10,9 @@ Welcome to Books's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   2024/index
+   about
+
 
 
 Indices and tables
