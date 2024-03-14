@@ -7,10 +7,12 @@ Welcome to Books's documentation!
 =================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    七大设计原则/index
+   JavaScript笔记/index
+   爬虫相关/index
    about
 
 
