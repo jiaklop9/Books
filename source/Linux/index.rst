@@ -1,6 +1,6 @@
-JavaScript读书笔记
+Linux
 ==================
 .. toctree::
    :maxdepth: 1
 
-   BOM
+   常用命令

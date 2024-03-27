@@ -1,7 +1,7 @@
 七大设计原则
 ==================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    low_of_demeter
 
